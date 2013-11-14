@@ -1,0 +1,3 @@
+describe("My angular app", function () {
+	// ...
+});
